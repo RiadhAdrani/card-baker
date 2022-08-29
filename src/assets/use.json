@@ -1,0 +1,68 @@
+[
+    {
+        "template": "Xyz",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "500",
+        "defense": "500"
+    },
+    {
+        "template": "Ritual",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "1000",
+        "defense": "1500"
+    },
+    {
+        "template": "Trap",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "1000",
+        "defense": "1500"
+    },
+    {
+        "template": "Spell",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "1000",
+        "defense": "1500"
+    },
+    {
+        "template": "Synchro",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "1000",
+        "defense": "1500"
+    },
+    {
+        "template": "Ritual",
+        "img": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Soul%20of%20Cinder.jpg",
+        "title": "Soul of Cinder",
+        "level": 8,
+        "id": "Souls",
+        "type": "Boss",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean ornare odio sed elit elementum lacinia.\nNam egestas, mauris et ultrices finibus, nisi odio pharetra purus",
+        "attack": "1000",
+        "defense": "1500"
+    }
+]
